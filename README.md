@@ -1,5 +1,7 @@
 # HappyHour Co. M&A Advisory Project
 
+**JPMorgan Investment Banking Virtual Experience Program (IB VEP)** | Forage
+
 ## Overview
 
 Complete M&A advisory deliverables for WorldWide Brewing Co.'s potential acquisition of HappyHour Co. (Hong Kong beverage company).
@@ -142,5 +144,6 @@ Complete M&A advisory deliverables for WorldWide Brewing Co.'s potential acquisi
 
 ---
 
+*JPMorgan Investment Banking Virtual Experience Program (IB VEP) | Forage*  
 *Prepared by: J.P. Morgan M&A Team for WorldWide Brewing Co.*  
 *Date: May 2026*
