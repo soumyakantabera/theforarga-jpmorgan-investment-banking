@@ -1,11 +1,16 @@
 # JPMorgan Investment Banking Virtual Experience Program (IB VEP)
 
-**Platform:** Forage &nbsp;|&nbsp; **Program:** J.P. Morgan Investment Banking Virtual Experience  
+<p>
+  <img src="https://img.shields.io/badge/Program-J.P.%20Morgan%20Investment%20Banking-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-The%20Forage-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+</p>
+
 **Engagement:** M&A Advisory – WorldWide Brewing Co. / HappyHour Co. Acquisition
 
 ---
 
-## Table of Contents
+## 📋 Table of Contents
 
 1. [Program Overview](#program-overview)
 2. [Task 1 – Find M&A Targets](#task-1--find-ma-targets)
